@@ -27,3 +27,66 @@ Mon Nov 01 21:40:41 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/
 Mon Nov 01 21:40:41 EDT 2010: TM opening log: /Users/adalton/jrubydev/iopenforum/db/neo4j-test/tm_tx_log.1
 Mon Nov 01 21:40:41 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
 Mon Nov 01 21:40:41 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
+Mon Nov 01 21:49:05 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/nioneo_logical.log.1] clean empty log, 
+Mon Nov 01 21:49:05 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/nioneo_logical.log.1] clean empty log, version=0
+Mon Nov 01 21:49:05 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
+Mon Nov 01 21:49:05 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
+Mon Nov 01 21:49:05 EDT 2010: TM opening log: /Users/adalton/jrubydev/iopenforum/db/neo4j-test/tm_tx_log.1
+Mon Nov 01 21:49:06 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
+Mon Nov 01 21:49:06 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
+Mon Nov 01 21:50:21 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/nioneo_logical.log.1] clean empty log, 
+Mon Nov 01 21:50:21 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/nioneo_logical.log.1] clean empty log, version=0
+Mon Nov 01 21:50:21 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
+Mon Nov 01 21:50:21 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
+Mon Nov 01 21:50:21 EDT 2010: TM opening log: /Users/adalton/jrubydev/iopenforum/db/neo4j-test/tm_tx_log.1
+Mon Nov 01 21:50:21 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
+Mon Nov 01 21:50:21 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
+Mon Nov 01 21:54:10 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/nioneo_logical.log.1] clean empty log, 
+Mon Nov 01 21:54:10 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/nioneo_logical.log.1] clean empty log, version=0
+Mon Nov 01 21:54:10 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
+Mon Nov 01 21:54:10 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
+Mon Nov 01 21:54:10 EDT 2010: TM opening log: /Users/adalton/jrubydev/iopenforum/db/neo4j-test/tm_tx_log.1
+Mon Nov 01 21:54:10 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
+Mon Nov 01 21:54:10 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
+Mon Nov 01 21:55:44 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/nioneo_logical.log.1] clean empty log, 
+Mon Nov 01 21:55:44 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/nioneo_logical.log.1] clean empty log, version=0
+Mon Nov 01 21:55:44 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
+Mon Nov 01 21:55:44 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
+Mon Nov 01 21:55:44 EDT 2010: TM opening log: /Users/adalton/jrubydev/iopenforum/db/neo4j-test/tm_tx_log.1
+Mon Nov 01 21:55:45 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
+Mon Nov 01 21:55:45 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
+Mon Nov 01 21:57:12 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/nioneo_logical.log.1] clean empty log, 
+Mon Nov 01 21:57:12 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/nioneo_logical.log.1] clean empty log, version=0
+Mon Nov 01 21:57:12 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
+Mon Nov 01 21:57:12 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
+Mon Nov 01 21:57:12 EDT 2010: TM opening log: /Users/adalton/jrubydev/iopenforum/db/neo4j-test/tm_tx_log.1
+Mon Nov 01 21:57:12 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
+Mon Nov 01 21:57:12 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
+Mon Nov 01 22:17:24 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/nioneo_logical.log.1] clean empty log, 
+Mon Nov 01 22:17:24 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/nioneo_logical.log.1] clean empty log, version=0
+Mon Nov 01 22:17:24 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
+Mon Nov 01 22:17:24 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
+Mon Nov 01 22:17:24 EDT 2010: TM opening log: /Users/adalton/jrubydev/iopenforum/db/neo4j-test/tm_tx_log.1
+Mon Nov 01 22:17:24 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
+Mon Nov 01 22:17:24 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
+Mon Nov 01 22:19:17 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/nioneo_logical.log.1] clean empty log, 
+Mon Nov 01 22:19:17 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/nioneo_logical.log.1] clean empty log, version=0
+Mon Nov 01 22:19:17 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
+Mon Nov 01 22:19:17 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
+Mon Nov 01 22:19:17 EDT 2010: TM opening log: /Users/adalton/jrubydev/iopenforum/db/neo4j-test/tm_tx_log.1
+Mon Nov 01 22:19:17 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
+Mon Nov 01 22:19:17 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
+Mon Nov 01 22:33:57 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/nioneo_logical.log.1] clean empty log, 
+Mon Nov 01 22:33:57 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/nioneo_logical.log.1] clean empty log, version=0
+Mon Nov 01 22:33:57 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
+Mon Nov 01 22:33:57 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
+Mon Nov 01 22:33:57 EDT 2010: TM opening log: /Users/adalton/jrubydev/iopenforum/db/neo4j-test/tm_tx_log.1
+Mon Nov 01 22:33:57 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
+Mon Nov 01 22:33:57 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
+Mon Nov 01 22:36:31 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/nioneo_logical.log.1] clean empty log, 
+Mon Nov 01 22:36:31 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/nioneo_logical.log.1] clean empty log, version=0
+Mon Nov 01 22:36:31 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
+Mon Nov 01 22:36:31 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
+Mon Nov 01 22:36:31 EDT 2010: TM opening log: /Users/adalton/jrubydev/iopenforum/db/neo4j-test/tm_tx_log.1
+Mon Nov 01 22:36:31 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, 
+Mon Nov 01 22:36:31 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-test/index/lucene.log.1] clean empty log, version=0
