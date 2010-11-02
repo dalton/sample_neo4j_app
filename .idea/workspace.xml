@@ -33,10 +33,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="28" selection-start="220" selection-end="220" vertical-scroll-proportion="0.169279">
+            <state line="9" column="28" selection-start="220" selection-end="220" vertical-scroll-proportion="-4.1538463">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="50" selection-start="96" selection-end="96" vertical-scroll-proportion="0.037617553">
               <folding />
             </state>
           </provider>
@@ -54,6 +63,7 @@
       <list>
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/README" />
       </list>
     </option>
   </component>
@@ -392,7 +402,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="28" selection-start="220" selection-end="220" vertical-scroll-proportion="0.169279">
+        <state line="9" column="28" selection-start="220" selection-end="220" vertical-scroll-proportion="-4.1538463">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="50" selection-start="96" selection-end="96" vertical-scroll-proportion="0.037617553">
           <folding />
         </state>
       </provider>
