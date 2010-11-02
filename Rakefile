@@ -3,5 +3,6 @@
 
 require File.expand_path('../config/application', __FILE__)
 require 'rake'
+require 'neo4j'
 
 Iopenforum::Application.load_tasks

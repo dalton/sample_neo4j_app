@@ -1,5 +1,8 @@
 require File.expand_path('../boot', __FILE__)
 
+#require 'rails/all'
+
+
 require "action_controller/railtie"
 
 require "action_mailer/railtie"
@@ -46,5 +49,7 @@ module Iopenforum
 
     # Configure sensitive parameters which will be filtered from the log file.
     config.filter_parameters += [:password]
+    config.neo4j.storage_path = "#{config.root}/db/neo4j-#{Rails.env}"
+    
   end
 end
