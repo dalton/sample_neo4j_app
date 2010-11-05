@@ -43,7 +43,7 @@
     </requirement>
     <requirement>
       <requirement>
-        <dependency name="neo4j" version="1.0.0.beta.14" bound="EQUAL" git="false" />
+        <dependency name="neo4j" version="1.0.0.beta.17" bound="EQUAL" git="false" />
       </requirement>
       <source from="Gemfile" />
     </requirement>

@@ -1,0 +1,60 @@
+Tue Nov 02 22:44:02 EDT 2010: Creating new db @ /Users/adalton/jrubydev/iopenforum/db/neo4j-development/neostore
+Tue Nov 02 22:44:02 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-development/nioneo_logical.log.1] clean empty log, 
+Tue Nov 02 22:44:02 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-development/nioneo_logical.log.1] clean empty log, version=0
+Tue Nov 02 22:44:02 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-development/index/lucene.log.1] clean empty log, 
+Tue Nov 02 22:44:02 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-development/index/lucene.log.1] clean empty log, version=0
+Tue Nov 02 22:44:02 EDT 2010: TM new log: tm_tx_log.1
+Tue Nov 02 22:44:03 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-development/index/lucene.log.1] clean empty log, 
+Tue Nov 02 22:44:03 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-development/index/lucene.log.1] clean empty log, version=0
+Thu Nov 04 20:45:40 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-development/nioneo_logical.log.1] clean empty log, 
+Thu Nov 04 20:45:40 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-development/nioneo_logical.log.1] clean empty log, version=0
+Thu Nov 04 20:45:40 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-development/index/lucene.log.1] clean empty log, 
+Thu Nov 04 20:45:40 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-development/index/lucene.log.1] clean empty log, version=0
+Thu Nov 04 20:45:40 EDT 2010: TM opening log: /Users/adalton/jrubydev/iopenforum/db/neo4j-development/tm_tx_log.1
+Thu Nov 04 20:45:40 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-development/index/lucene.log.1] clean empty log, 
+Thu Nov 04 20:45:40 EDT 2010: [/Users/adalton/jrubydev/iopenforum/db/neo4j-development/index/lucene.log.1] clean empty log, version=0
+Thu Nov 04 21:03:38 EDT 2010: /Users/adalton/jrubydev/iopenforum/db/neo4j-development/neostore rebuild id generator, highId=5 defragged count=0
+Thu Nov 04 21:03:38 EDT 2010: /Users/adalton/jrubydev/iopenforum/db/neo4j-development/neostore non clean shutdown detected
+Thu Nov 04 21:03:38 EDT 2010: Opened [/Users/adalton/jrubydev/iopenforum/db/neo4j-development/nioneo_logical.log.1] clean empty log, version=0
+Thu Nov 04 21:03:38 EDT 2010: /Users/adalton/jrubydev/iopenforum/db/neo4j-development/neostore rebuild id generator, highId=5 defragged count=0
+Thu Nov 04 21:03:38 EDT 2010: Opened [/Users/adalton/jrubydev/iopenforum/db/neo4j-development/lucene/lucene.log.1] clean empty log, version=0
+Thu Nov 04 21:03:38 EDT 2010: Opened [/Users/adalton/jrubydev/iopenforum/db/neo4j-development/lucene-fulltext/lucene.log.1] clean empty log, version=0
+Thu Nov 04 21:03:38 EDT 2010: Extension org.neo4j.kernel.KernelExtension[kernel jmx] loaded ok
+Thu Nov 04 21:03:38 EDT 2010: Opened [/Users/adalton/jrubydev/iopenforum/db/neo4j-development/index/lucene.log.1] clean empty log, version=0
+Thu Nov 04 21:03:38 EDT 2010: Extension org.neo4j.graphdb.index.IndexProvider[lucene] loaded ok
+Thu Nov 04 21:03:38 EDT 2010: TM opening log: /Users/adalton/jrubydev/iopenforum/db/neo4j-development/tm_tx_log.1
+Thu Nov 04 21:03:38 EDT 2010: --- CONFIGURATION START ---
+Thu Nov 04 21:03:38 EDT 2010: Physical mem: 4096MB, Heap size: 495MB
+Thu Nov 04 21:03:38 EDT 2010: Kernel version: Neo4j - Graph Database Kernel 1.2-1.2.M02
+Thu Nov 04 21:03:38 EDT 2010: Operating System: Mac OS X; version: 10.6.4; arch: x86_64
+Thu Nov 04 21:03:38 EDT 2010: VM Name: Java HotSpot(TM) 64-Bit Server VM
+Thu Nov 04 21:03:38 EDT 2010: VM Vendor: Apple Inc.
+Thu Nov 04 21:03:38 EDT 2010: VM Version: 17.1-b03-307
+Thu Nov 04 21:03:38 EDT 2010: Boot Class Path: /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsfd.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaRuntimeSupport.framework/Resources/Java/JavaRuntimeSupport.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/ui.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/laf.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/sunrsasign.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsse.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jce.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/charsets.jar:/Users/adalton/.rvm/rubies/jruby-1.5.3/lib/jruby.jar
+Thu Nov 04 21:03:38 EDT 2010: Class Path: /Users/adalton/.rvm/rubies/jruby-1.5.3/lib/profile.jar:
+Thu Nov 04 21:03:38 EDT 2010: Library Path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Thu Nov 04 21:03:38 EDT 2010: Garbage Collector: ParNew: [Par Eden Space, Par Survivor Space]
+Thu Nov 04 21:03:38 EDT 2010: Garbage Collector: ConcurrentMarkSweep: [Par Eden Space, Par Survivor Space, CMS Old Gen, CMS Perm Gen]
+Thu Nov 04 21:03:38 EDT 2010: VM Arguments: [-Djruby.memory.max=500m, -Djruby.stack.max=1024k, -Xmx500m, -Xss1024k, -Djffi.boot.library.path=/Users/adalton/.rvm/rubies/jruby-1.5.3/lib/native/Darwin, -Dfile.encoding=UTF-8, -Xbootclasspath/a:/Users/adalton/.rvm/rubies/jruby-1.5.3/lib/jruby.jar, -Djruby.home=/Users/adalton/.rvm/rubies/jruby-1.5.3, -Djruby.lib=/Users/adalton/.rvm/rubies/jruby-1.5.3/lib, -Djruby.script=jruby, -Djruby.shell=/bin/sh]
+Thu Nov 04 21:03:38 EDT 2010: 
+Thu Nov 04 21:03:38 EDT 2010: create=true
+Thu Nov 04 21:03:38 EDT 2010: dir=/Users/adalton/jrubydev/iopenforum/db/neo4j-development/lucene-fulltext
+Thu Nov 04 21:03:38 EDT 2010: logical_log=/Users/adalton/jrubydev/iopenforum/db/neo4j-development/nioneo_logical.log
+Thu Nov 04 21:03:38 EDT 2010: neo_store=/Users/adalton/jrubydev/iopenforum/db/neo4j-development/neostore
+Thu Nov 04 21:03:38 EDT 2010: neostore.nodestore.db.mapped_memory=20M
+Thu Nov 04 21:03:38 EDT 2010: neostore.propertystore.db.arrays.mapped_memory=130M
+Thu Nov 04 21:03:38 EDT 2010: neostore.propertystore.db.index.keys.mapped_memory=1M
+Thu Nov 04 21:03:38 EDT 2010: neostore.propertystore.db.index.mapped_memory=1M
+Thu Nov 04 21:03:38 EDT 2010: neostore.propertystore.db.mapped_memory=90M
+Thu Nov 04 21:03:38 EDT 2010: neostore.propertystore.db.strings.mapped_memory=130M
+Thu Nov 04 21:03:38 EDT 2010: neostore.relationshipstore.db.mapped_memory=100M
+Thu Nov 04 21:03:38 EDT 2010: rebuild_idgenerators_fast=true
+Thu Nov 04 21:03:38 EDT 2010: store_dir=/Users/adalton/jrubydev/iopenforum/db/neo4j-development
+Thu Nov 04 21:03:38 EDT 2010: --- CONFIGURATION END ---
+Thu Nov 04 21:03:40 EDT 2010: Closed log /Users/adalton/jrubydev/iopenforum/db/neo4j-development/nioneo_logical.log
+Thu Nov 04 21:03:40 EDT 2010: NeoStore closed
+Thu Nov 04 21:03:40 EDT 2010: Closed log /Users/adalton/jrubydev/iopenforum/db/neo4j-development/index/lucene.log
+Thu Nov 04 21:03:40 EDT 2010: Closed log /Users/adalton/jrubydev/iopenforum/db/neo4j-development/lucene/lucene.log
+Thu Nov 04 21:03:40 EDT 2010: NeoStore closed
+Thu Nov 04 21:03:40 EDT 2010: Closed log /Users/adalton/jrubydev/iopenforum/db/neo4j-development/lucene-fulltext/lucene.log
+Thu Nov 04 21:03:40 EDT 2010: TM shutting down

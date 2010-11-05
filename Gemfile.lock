@@ -51,7 +51,7 @@ GEM
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
     mime-types (1.16)
-    neo4j (1.0.0.beta.14)
+    neo4j (1.0.0.beta.17)
       activemodel (>= 3.0.0)
       railties (>= 3.0.0)
     nokogiri (1.4.3.1-java)
@@ -113,7 +113,7 @@ DEPENDENCIES
   jdbc-sqlite3
   jruby-openssl
   jruby-rack
-  neo4j (= 1.0.0.beta.14)
+  neo4j (= 1.0.0.beta.17)
   rails (= 3.0.1)
   rspec (= 2.0.1)
   rspec-rails (= 2.0.1)

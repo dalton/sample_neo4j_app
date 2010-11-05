@@ -7,7 +7,7 @@ gem 'activerecord-jdbcsqlite3-adapter'
 gem 'jruby-openssl'
 gem 'jruby-rack'
 gem 'warbler'
-gem 'neo4j', '1.0.0.beta.14'
+gem 'neo4j', '1.0.0.beta.17'
 
 
 group :development do
