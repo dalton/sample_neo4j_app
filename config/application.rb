@@ -50,6 +50,11 @@ module Iopenforum
     # Configure sensitive parameters which will be filtered from the log file.
     config.filter_parameters += [:password]
     config.neo4j.storage_path = "#{config.root}/db/neo4j-#{Rails.env}"
-    
+
+    config.generators do |g|
+      g.orm :neo4j
+      g.test_framework :rspec, :fixture => false
+    end
+
   end
 end
