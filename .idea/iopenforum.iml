@@ -25,6 +25,12 @@
     </requirement>
     <requirement>
       <requirement>
+        <dependency name="gravatar_image_tag" version="0.1.0" bound="EQUAL" git="false" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
         <dependency name="jdbc-sqlite3" version="0" bound="GREATER_OR_EQUAL" git="false" />
       </requirement>
       <source from="Gemfile" />
